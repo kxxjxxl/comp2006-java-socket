@@ -1,6 +1,6 @@
-//Author: Emmanuel Adefuye
+//Author: Emad Salim
 //Project: Java Chat (Socket Programming)
-//Date: 10/27/2021
+//Date: 10/03/2022
 
 //Intuition Game (number guessing/matching)
 //Instructions: 2 players will try to use their intuition to guess the exact number the
