@@ -1,6 +1,6 @@
-//Author: Emmanuel Adefuye
+//Author: Emad Salim
 //Project: Java Chat (Socket Programming)
-//Date: 10/04/2021
+//Date: 10/03/2022
  
 import java.io.*;
 import java.net.*;
